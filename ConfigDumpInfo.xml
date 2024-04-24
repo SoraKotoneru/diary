@@ -24,8 +24,8 @@
 		<Metadata name="Document.УчебныйДень.Command.ЗаполнитьРасписаниеНаСледующуюНеделю.CommandModule" id="0d2914e4-aeb3-4393-b711-a45b7247237e.2" configVersion="849a5c525dc20b41bf4a867f7e187c0d00000000"/>
 		<Metadata name="Document.УчебныйДень.Form.ФормаДокумента" id="1f250782-5420-4350-8fa9-e1818ed41b8f" configVersion="2e5b7151cee0c4418cea19e160a5e3b400000000"/>
 		<Metadata name="Document.УчебныйДень.Form.ФормаДокумента.Form" id="1f250782-5420-4350-8fa9-e1818ed41b8f.0" configVersion="12b25455d23d7d4091919e530ac7b47f00000000"/>
-		<Metadata name="Document.УчебныйДень.Form.ФормаСписка" id="49a8b032-99c4-49b9-97e5-6ffaa2ad1908" configVersion="ae3c9e7437cf6041a9f5086f57d1a07700000000"/>
-		<Metadata name="Document.УчебныйДень.Form.ФормаСписка.Form" id="49a8b032-99c4-49b9-97e5-6ffaa2ad1908.0" configVersion="ddcbe1d4705a24479274ee02b744bc3e00000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаСписка" id="49a8b032-99c4-49b9-97e5-6ffaa2ad1908" configVersion="f074240a1480a6468e2c3c902a0f05b400000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаСписка.Form" id="49a8b032-99c4-49b9-97e5-6ffaa2ad1908.0" configVersion="38495ab87493864bbe1067ddc3f8720e00000000"/>
 		<Metadata name="Document.УчебныйДень.ObjectModule" id="7375a819-d5ec-4140-a4c3-e7ad5946e338.0" configVersion="f407f97ba5591b4bae03c8bb2dcab22e00000000"/>
 		<Metadata name="InformationRegister.Оценки" id="65a66ce2-4bd2-4a9e-ab47-9bf228c97360" configVersion="6a6318910833a648a15e384b8ee29a8500000000">
 			<Metadata name="InformationRegister.Оценки.Dimension.НомерУрока" id="06dfda7b-6990-4de0-aa4f-c6de37cca72f"/>
