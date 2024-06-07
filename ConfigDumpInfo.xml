@@ -9,11 +9,11 @@
 		<Metadata name="Catalog.Учителя" id="b8b57640-8133-49f4-b59a-232e61c705dc" configVersion="0fb530be5d129e49a09edd8c06b4d9d200000000"/>
 		<Metadata name="CommonModule.Серверный" id="54edd768-ea61-48e4-b3ba-ea91324ce87e" configVersion="a884c5361d332648bc80329c5efb7e4500000000"/>
 		<Metadata name="CommonModule.Серверный.Module" id="54edd768-ea61-48e4-b3ba-ea91324ce87e.0" configVersion="4897d5f5952dd0488ec341a65a9917f200000000"/>
-		<Metadata name="Configuration.Дневник" id="0f19e8bc-1c31-487f-afa1-0ec6ae81f019" configVersion="a49221552f50a74fa2f3fe4c0fef50b000000000"/>
+		<Metadata name="Configuration.Дневник" id="0f19e8bc-1c31-487f-afa1-0ec6ae81f019" configVersion="f1703db4728cc44a858c8ffe1446019000000000"/>
 		<Metadata name="Configuration.Дневник.HomePageWorkArea" id="c6155886-2830-4d46-be18-db973d7d691e.8" configVersion="32e7fbb116c6f24a837a13ccad25185d00000000"/>
 		<Metadata name="Configuration.Дневник.MainSectionCommandInterface" id="c6155886-2830-4d46-be18-db973d7d691e.9" configVersion="2f89d9e2ceb5a34cba5e3e13d38b2fcf00000000"/>
 		<Metadata name="Configuration.Дневник.ManagedApplicationModule" id="c6155886-2830-4d46-be18-db973d7d691e.6" configVersion="277dabdd5b205f499e38d1120843f51a00000000"/>
-		<Metadata name="Document.УчебныйДень" id="7375a819-d5ec-4140-a4c3-e7ad5946e338" configVersion="0209f68256dd0a42bd2e6816e204b63200000000">
+		<Metadata name="Document.УчебныйДень" id="7375a819-d5ec-4140-a4c3-e7ad5946e338" configVersion="69754849ec6fec44b9f204d1e4bd84d200000000">
 			<Metadata name="Document.УчебныйДень.Command.ЗаполнитьРасписаниеНаСледующуюНеделю" id="0d2914e4-aeb3-4393-b711-a45b7247237e"/>
 			<Metadata name="Document.УчебныйДень.TabularSection.Уроки" id="462c3891-aafb-435f-b661-603ad43dee39"/>
 			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.Предмет" id="55768588-e37c-4673-aa04-1eb0f40fe2e5"/>
@@ -22,17 +22,22 @@
 			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.КоментарийУчителя" id="b4aee11c-ad88-42c3-9b8c-bd396f159c67"/>
 		</Metadata>
 		<Metadata name="Document.УчебныйДень.Command.ЗаполнитьРасписаниеНаСледующуюНеделю.CommandModule" id="0d2914e4-aeb3-4393-b711-a45b7247237e.2" configVersion="849a5c525dc20b41bf4a867f7e187c0d00000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаВыбора" id="5f45dc2d-d1e6-4880-8ed4-19f9ab572aa9" configVersion="812027d744d9e343886746f9ee0299c200000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаВыбора.Form" id="5f45dc2d-d1e6-4880-8ed4-19f9ab572aa9.0" configVersion="e380be8838c3aa4fb31b21a0391fe16600000000"/>
 		<Metadata name="Document.УчебныйДень.Form.ФормаДокумента" id="1f250782-5420-4350-8fa9-e1818ed41b8f" configVersion="2e5b7151cee0c4418cea19e160a5e3b400000000"/>
 		<Metadata name="Document.УчебныйДень.Form.ФормаДокумента.Form" id="1f250782-5420-4350-8fa9-e1818ed41b8f.0" configVersion="12b25455d23d7d4091919e530ac7b47f00000000"/>
 		<Metadata name="Document.УчебныйДень.Form.ФормаСписка" id="49a8b032-99c4-49b9-97e5-6ffaa2ad1908" configVersion="f074240a1480a6468e2c3c902a0f05b400000000"/>
 		<Metadata name="Document.УчебныйДень.Form.ФормаСписка.Form" id="49a8b032-99c4-49b9-97e5-6ffaa2ad1908.0" configVersion="38495ab87493864bbe1067ddc3f8720e00000000"/>
-		<Metadata name="Document.УчебныйДень.ObjectModule" id="7375a819-d5ec-4140-a4c3-e7ad5946e338.0" configVersion="f407f97ba5591b4bae03c8bb2dcab22e00000000"/>
-		<Metadata name="InformationRegister.Оценки" id="65a66ce2-4bd2-4a9e-ab47-9bf228c97360" configVersion="6a6318910833a648a15e384b8ee29a8500000000">
-			<Metadata name="InformationRegister.Оценки.Dimension.НомерУрока" id="06dfda7b-6990-4de0-aa4f-c6de37cca72f"/>
-			<Metadata name="InformationRegister.Оценки.Resource.Оценка" id="342e0191-f75d-43e9-8220-fd8b83b31c10"/>
-			<Metadata name="InformationRegister.Оценки.Dimension.Предмет" id="dafe9bbe-c56e-45e7-8a54-b09113513fca"/>
+		<Metadata name="Document.УчебныйДень.ObjectModule" id="7375a819-d5ec-4140-a4c3-e7ad5946e338.0" configVersion="e95a070d5581644186724ae04d2c8cca00000000"/>
+		<Metadata name="InformationRegister.Оценки" id="5835e6bc-e48c-4ab4-a768-d9cb2a5e7374" configVersion="b599de837e3d764f835f81618f018cab00000000">
+			<Metadata name="InformationRegister.Оценки.Resource.Оценка" id="36efde51-880b-4190-bd72-2131fa99b48e"/>
+			<Metadata name="InformationRegister.Оценки.Dimension.Предмет" id="519296be-f257-4735-ab00-9a96eff0dbcf"/>
+			<Metadata name="InformationRegister.Оценки.Dimension.НомерУрока" id="606dcd91-b430-49bf-a097-30d5bd9856b2"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="bc8adf38-f2d5-4cea-b88a-3116270f564b" configVersion="6653b2f52edde94c844f7f771aefe11900000000"/>
 		<Metadata name="Report.ПрошедшиеЗанятия" id="17abcb16-dcf5-4d31-ac08-cf6d929b7af4" configVersion="34e9720cdb72584e8a528f53788e064f00000000"/>
+		<Metadata name="Report.Успеваемость" id="04836fd1-44bd-4959-9aac-c2391622baee" configVersion="9fde9b453508b44eb198637f0877a84c00000000"/>
+		<Metadata name="Report.Успеваемость.Template.ОсновнаяСхемаКомпоновкиДанных" id="6578b0e2-4539-48ac-a658-8a44f966764a" configVersion="f8b5f5258f51634db8aef84ac7590f1e00000000"/>
+		<Metadata name="Report.Успеваемость.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="6578b0e2-4539-48ac-a658-8a44f966764a.0" configVersion="b72b80e480695745b391ca773602fee400000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

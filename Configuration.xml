@@ -252,6 +252,7 @@
 			<Catalog>Предметы</Catalog>
 			<Document>УчебныйДень</Document>
 			<Report>ПрошедшиеЗанятия</Report>
+			<Report>Успеваемость</Report>
 			<InformationRegister>Оценки</InformationRegister>
 		</ChildObjects>
 	</Configuration>
